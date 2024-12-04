@@ -1,1 +1,6 @@
-{"content": "mcp>=0.1.0\nfastapi>=0.68.0\nuvicorn>=0.15.0\nrequests>=2.26.0\npython-dotenv>=0.19.0\nSmartApi-Python>=0.1.10", "encoding": "utf-8"}
+mcp>=0.1.0
+fastapi>=0.68.0
+uvicorn>=0.15.0
+requests>=2.26.0
+python-dotenv>=0.19.0
+SmartApi-Python>=0.1.10
